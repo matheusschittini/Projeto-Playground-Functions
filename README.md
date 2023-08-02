@@ -1,27 +1,5 @@
 ## Requisitos do projeto
 
-## ⚠️ Leia-os atentamente e siga à risca o que for pedido. Não altere o nome de nenhuma função. ⚠️
-
-O não cumprimento de um requisito, total ou parcialmente, impactará em sua avaliação.
-
----
-
-### 👀 Observações importantes:
-
-* Para verificar se a sua função foi criada corretamente você pode instalar a extensão `code runner` no _VSCode_.
-* Utilize `console.log()` para testar as funções localmente, mas pode remover antes de fazer o push 😉.
-* Lembrem-se que como pessoas desenvolvedoras devemos fazer pesquisas e garimpar resultados para auxiliar no entendimento do assunto. Assim, para solucionar os requisitos do projeto é inevitável e estimulado que pesquisas sejam feitas nas mais variadas fontes (course, vídeos do course, google, youtube, etc) sempre tomando cuidado para utilizar fontes "confiáveis" nas pesquisas da Internet, como por exemplo:
-  
-  * [Javascript.com](http://javascript.com/)
-  
-  * [W3Schools](https://www.w3schools.com/js/default.asp)
-  
-  * [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  
-  * [StackOverflow](https://pt.stackoverflow.com/questions/tagged/javascript)
-
----
-
 ### 1 - Crie uma função usando o operador &&
 
 JavaScript possui um operador lógico `&&`, o qual recebe dois valores e retorna `true` se ambos os valores são verdadeiros, e retorna `false` se algum dos valores não o for.
