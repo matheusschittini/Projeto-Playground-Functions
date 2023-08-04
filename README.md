@@ -1,4 +1,4 @@
-Esse projeto foi desenvolvido por mim durante o 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, apliquei os conhecimentos adquiridos acerca das funções em JavaScript.
+Esse projeto foi desenvolvido por mim durante o 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, apliquei os conhecimentos adquiridos sobre funções em JavaScript.
 
 ## Requisitos do projeto
 
